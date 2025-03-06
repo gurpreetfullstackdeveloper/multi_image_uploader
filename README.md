@@ -1,4 +1,3 @@
-# multi_image_uploader
 # **Multi-Image Uploader Using Core PHP, jQuery, AJAX, and MySQL**  
 
 ### **Overview**  
